@@ -1,0 +1,69 @@
+what,kind,bundleId,bundleVersion,description,time
+arch,sysinfo,,,"x86_64",1535192617942
+ws,sysinfo,,,"win32",1535192617942
+locale,sysinfo,,,"en_IN",1535192617942
+processors,sysinfo,,,"4",1535192617942
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1535192617942
+java.runtime.version,sysinfo,,,"1.8.0_66-b18",1535192617942
+java.specification.name,sysinfo,,,"Java Platform API Specification",1535192617942
+java.specification.vendor,sysinfo,,,"Oracle Corporation",1535192617942
+java.specification.version,sysinfo,,,"1.8",1535192617942
+java.vendor,sysinfo,,,"Oracle Corporation",1535192617942
+java.version,sysinfo,,,"1.8.0_66",1535192617942
+java.vm.info,sysinfo,,,"mixed mode",1535192617942
+java.vm.name,sysinfo,,,"Java HotSpot(TM) 64-Bit Server VM",1535192617942
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1535192617942
+java.vm.specification.vendor,sysinfo,,,"Oracle Corporation",1535192617942
+java.vm.specification.version,sysinfo,,,"1.8",1535192617942
+java.vm.vendor,sysinfo,,,"Oracle Corporation",1535192617942
+java.vm.version,sysinfo,,,"25.66-b18",1535192617942
+started,bundle,org.eclipse.update.scheduler,3.2.300.v20100512,"org.eclipse.update.scheduler",1535192618205
+started,bundle,org.eclipse.update.configurator,3.3.100.v20100512,"org.eclipse.update.configurator",1535192618706
+started,bundle,org.eclipse.update.core,3.2.500.v20110330,"org.eclipse.update.core",1535192618791
+started,bundle,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui",1535192647524
+started,bundle,org.eclipse.wst.server.core,1.1.304.v20120208_1420,"org.eclipse.wst.server.core",1535192648126
+started,bundle,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.ui",1535192648173
+started,bundle,org.eclipse.jdt.debug,3.7.1.v20111006_r372,"org.eclipse.jdt.debug",1535192648458
+started,bundle,org.eclipse.jdt.debug.ui,3.6.1.v20111006_r372,"org.eclipse.jdt.debug.ui",1535192648643
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1535192699944
+started,bundle,org.eclipse.pde.launching,3.6.0.v20110506,"org.eclipse.pde.launching",1535192712820
+started,bundle,org.eclipse.ui.views.log,1.0.200.v20110404,"org.eclipse.ui.views.log",1535192712867
+started,bundle,org.eclipse.pde.ui,3.6.100.v20120103_r372,"org.eclipse.pde.ui",1535192712882
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1535192714672
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1535192717143
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1535192717660
+closed,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1535192717666
+activated,view,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views.ContentOutline",1535192722205
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1535192722221
+opened,view,org.eclipse.mylyn.tasks.ui,3.6.5.v20120215-0100,"org.eclipse.mylyn.tasks.ui.views.tasks",1535192723054
+closed,view,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views.ContentOutline",1535192723092
+activated,view,org.eclipse.mylyn.tasks.ui,3.6.5.v20120215-0100,"org.eclipse.mylyn.tasks.ui.views.tasks",1535192724595
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1535192724610
+closed,view,org.eclipse.mylyn.tasks.ui,3.6.5.v20120215-0100,"org.eclipse.mylyn.tasks.ui.views.tasks",1535192724641
+opened,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1535192732142
+opened,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.JavadocView",1535192735124
+activated,perspective,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.JavaPerspective",1535192735193
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.JavadocView",1535192735240
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1535192742498
+started,bundle,org.eclipse.wst.ws.service.policy.ui,1.0.300.v201108240515,"org.eclipse.wst.ws.service.policy.ui",1535192745711
+started,bundle,org.eclipse.wst.ws.service.policy,1.0.303.v201009221810,"org.eclipse.wst.ws.service.policy",1535192745749
+started,bundle,org.eclipse.wst.command.env,1.0.409.v201004211805,"org.eclipse.wst.command.env",1535192745865
+started,bundle,org.eclipse.wst.ws,1.1.203.v201004211805,"org.eclipse.wst.ws",1535192745865
+started,bundle,org.eclipse.compare,3.5.202.R37x_v20111109-0800,"org.eclipse.compare",1535192746413
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1535192752870
+started,bundle,org.eclipse.wst.jsdt.manipulation,1.0.300.v201104272153,"org.eclipse.wst.jsdt.manipulation",1535192758983
+started,bundle,org.eclipse.wst.jsdt.core,1.1.102.v201111090634,"org.eclipse.wst.jsdt.core",1535192759315
+started,bundle,org.eclipse.wst.jsdt.ui,1.1.102.v201201131900,"org.eclipse.wst.jsdt.ui",1535192759600
+started,bundle,org.eclipse.jst.servlet.ui,1.1.502.v201202011054,"org.eclipse.jst.servlet.ui",1535192760033
+error,log,,,"Internal Error",1535192760897
+error,log,,,"Problems encountered while deleting resources.",1535192760947
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1535192765225
+executed,command,org.eclipse.ltk.ui.refactoring,3.6.0.v20110928-1453,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1535192765286
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1535192765286
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1535192780911
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1535192793970
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1535192803357
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1535192836159
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1535192838346
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1535192840811
+closed,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1535192841545

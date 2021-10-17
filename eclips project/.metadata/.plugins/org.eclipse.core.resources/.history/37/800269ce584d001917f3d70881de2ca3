@@ -1,0 +1,30 @@
+<web-app>
+<servlet>
+    <servlet-name>Firstservlet</servlet-name>
+    <servlet-class>mypack.FirstServlet</servlet-class>
+</servlet>
+
+<serlet-mapping>
+     <servlet-name>Firstservlet</servlet-name>
+     <url-pattern>/first</url-pattern>
+</serlet-mapping>   
+
+<filter>
+     <filter-name>F1</filter-name>
+     <filter-class>mypack.Filter1</filter-class>
+</filter>
+
+<filter-mapping>
+       <filter-name>F1</filter-name>
+       <url-pattern>/first</url-pattern>
+</filter-mapping>
+
+<filter>
+     <filter-name>F2</filter-name>
+     <filter-class>mypack.Filter2</filter-class>
+</filter>
+
+<filter-mapping>
+       <filter-name>F2</filter-name>
+       <url-pattern>/first</url-pattern>
+</filter-mapping>

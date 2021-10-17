@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd" id="WebApp_ID" version="3.0">
+  <display-name>SessionMaintain</display-name>
+  <servlet>
+    <servlet-name>SetSessionData</servlet-name>
+    <servlet-class>SetSessionData</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>NewServlet</servlet-name>
+    <servlet-class>NewServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>NewServlet1</servlet-name>
+    <servlet-class>NewServlet1</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>SessionOut1</servlet-name>
+    <servlet-class>SessionOut1</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>SetSessionData</servlet-name>
+    <url-pattern>/SetSessionData</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>NewServlet</servlet-name>
+    <url-pattern>/NewServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>NewServlet1</servlet-name>
+    <url-pattern>/NewServlet1</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>SessionOut1</servlet-name>
+    <url-pattern>/SessionOut1</url-pattern>
+  </servlet-mapping>
+  <session-config>
+    <session-timeout>30</session-timeout>
+  </session-config>
+</web-app>

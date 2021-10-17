@@ -1,0 +1,10 @@
+127.0.0.1 - - [30/Oct/2019:23:39:40 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [30/Oct/2019:23:39:50 +0530] "GET /SessionMaintain/NewFile.html HTTP/1.1" 200 324
+0:0:0:0:0:0:0:1 - - [30/Oct/2019:23:40:02 +0530] "GET /favicon.ico HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [30/Oct/2019:23:40:15 +0530] "GET /SessionMaintain/NewFile.html?name=satyam&email=singhdeepak1998%40gmail.com HTTP/1.1" 200 324
+0:0:0:0:0:0:0:1 - - [30/Oct/2019:23:40:43 +0530] "GET /SessionMaintain/SetSessionData HTTP/1.1" 200 21
+0:0:0:0:0:0:0:1 - - [30/Oct/2019:23:41:08 +0530] "GET /SessionMaintain/servlet/NewServlet HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [30/Oct/2019:23:41:34 +0530] "GET /SessionMaintain/servlet/NewServlet1 HTTP/1.1" 404 1021
+0:0:0:0:0:0:0:1 - - [30/Oct/2019:23:50:11 +0530] "GET /SessionMaintain/servlet/NewServlet HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [30/Oct/2019:23:50:18 +0530] "GET /SessionMaintain/servlet/NewServlet HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [30/Oct/2019:23:55:21 +0530] "GET /SessionMaintain/Newservlet HTTP/1.1" 404 1003

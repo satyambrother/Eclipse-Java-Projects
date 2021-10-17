@@ -1,0 +1,11 @@
+INDEX VERSION 1.130
+F:\Eclipse Java project\eclips project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3240266704.index
+\RegistrationForm_UsingDynamic_JSP\src
+F:\Eclipse Java project\eclips project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2953328072.index
+\DirectiveInclude_PageInclude\src
+F:\Eclipse Java project\eclips project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2446707009.index
+\HelloJsp\src
+F:\Eclipse Java project\eclips project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1806265749.index
+\SendRedirect_JSP\src
+F:\Eclipse Java project\eclips project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\983193932.index
+\HelloJSP\src

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>HOME PAGE</title>
+</head>
+<body>
+<h1><center>SatyamSoftwareSolution</center></h1><hr align="center">
+<center>
+<a href="addrecord.html">addrecord</a>s
+<a href="updaterecord.html">updaterecord</a>
+<a href="deleterecord.html">deleterecord</a>
+<a href="findrecord.html">findrecord</a>
+<form action="findallrecord" method="post">
+<input type="submit" value="findallrecord"
+</form>
+
+</center>
+</body>
+</html>

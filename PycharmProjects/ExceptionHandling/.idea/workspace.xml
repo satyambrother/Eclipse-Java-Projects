@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3bd4131a-e94f-4c59-8850-46a83c6f31cd" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ExceptionHandling$Unittests_in_DestructorDemo1_py.coverage" NAME="Unittests in DestructorDemo1.py Coverage Results" MODIFIED="1548070157162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/Destructor" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$Unittests_in_DestructorDemo2_py.coverage" NAME="Unittests in DestructorDemo2.py Coverage Results" MODIFIED="1548070744391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/Destructor" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$Unittests_in_MethodOverloadingDemo1_py.coverage" NAME="Unittests in MethodOverloadingDemo1.py Coverage Results" MODIFIED="1548074980031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/OverLoadind" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$Unittests_in_PassingArgumentInMethodDemo2_py.coverage" NAME="Unittests in PassingArgumentInMethodDemo2.py Coverage Results" MODIFIED="1548076267318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/OverLoadind" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$UserDefinedExceptionDemo.coverage" NAME="UserDefinedExceptionDemo Coverage Results" MODIFIED="1547937364599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$Unittests_for_StaticVariableModificationDemo_Test_m3.coverage" NAME="Unittests for StaticVariableModificationDemo.Test.m3 Coverage Results" MODIFIED="1548038344445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/StaticVariable" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$VarableLengthArgumentFunctionDemo3.coverage" NAME="VarableLengthArgumentFunctionDemo3 Coverage Results" MODIFIED="1547947100171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../function" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$Unittests_for_GlobalVariableExampleDemo2_Test_m1.coverage" NAME="Unittests for GlobalVariableExampleDemo2.Test.m1 Coverage Results" MODIFIED="1548039934473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/GlobalVariable" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$AnonymousFunctionDemo2.coverage" NAME="AnonymousFunctionDemo2 Coverage Results" MODIFIED="1547949716276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../function" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$Unittests_for_StaticVarableDeclarationDemo_Test___init__.coverage" NAME="Unittests for StaticVarableDeclarationDemo.Test.__init__ Coverage Results" MODIFIED="1548036409481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/StaticVariable" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$StaticMethodDemo1.coverage" NAME="StaticMethodDemo1 Coverage Results" MODIFIED="1548063586793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/StaticMethod" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$VariableLengthArgumentFunctionDemo2.coverage" NAME="VariableLengthArgumentFunctionDemo2 Coverage Results" MODIFIED="1547946740194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../function" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$Unittests_for_ConstructorExampleDemo1_Test.coverage" NAME="Unittests for ConstructorExampleDemo1.Test Coverage Results" MODIFIED="1548033105825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/Constructor" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$KeywordVariableLengthArgumentDemo.coverage" NAME="KeywordVariableLengthArgumentDemo Coverage Results" MODIFIED="1547947558805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../function" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$module.coverage" NAME="module Coverage Results" MODIFIED="1547963882938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Module" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$MethodOveridingDemo1.coverage" NAME="MethodOveridingDemo1 Coverage Results" MODIFIED="1548079684723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/MethodOverRiding" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$OperatorOverloadingDemo3.coverage" NAME="OperatorOverloadingDemo3 Coverage Results" MODIFIED="1548073322162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/OverLoadind" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$VariableLengthArgumentFunctionDemo.coverage" NAME="VariableLengthArgumentFunctionDemo Coverage Results" MODIFIED="1547946481113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../function" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$InnerClassDemo1.coverage" NAME="InnerClassDemo1 Coverage Results" MODIFIED="1548066068608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/InnerClass" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$LoggingImplementationDemo1.coverage" NAME="LoggingImplementationDemo1 Coverage Results" MODIFIED="1547939364756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../logging" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$PositionalArgumentFunctionDemo.coverage" NAME="PositionalArgumentFunctionDemo Coverage Results" MODIFIED="1547945595657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../function" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$InstanceMethodDemo.coverage" NAME="InstanceMethodDemo Coverage Results" MODIFIED="1548051188446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/InstanceMethod" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$Unittests_for_ClassMethodDemo2_Test___init__.coverage" NAME="Unittests for ClassMethodDemo2.Test.__init__ Coverage Results" MODIFIED="1548063146967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/ClassMethod" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$CompositionAndAggregationDemo.coverage" NAME="CompositionAndAggregationDemo Coverage Results" MODIFIED="1548080715617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$HybridInheritenceDemo.coverage" NAME="HybridInheritenceDemo Coverage Results" MODIFIED="1548081722450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/Inheritence" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$InnerClassDemo4.coverage" NAME="InnerClassDemo4 Coverage Results" MODIFIED="1548067302327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/InnerClass" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$Unittests_for_StaticVarableDeclarationDemo_Test_m2.coverage" NAME="Unittests for StaticVarableDeclarationDemo.Test.m2 Coverage Results" MODIFIED="1548036622017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/StaticVariable" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$Unittests_in_test_py.coverage" NAME="Unittests in test.py Coverage Results" MODIFIED="1547963893231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Module" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$ClassMethodDemo.coverage" NAME="ClassMethodDemo Coverage Results" MODIFIED="1548062695035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/ClassMethod" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$OperatorOverloadingDemo2.coverage" NAME="OperatorOverloadingDemo2 Coverage Results" MODIFIED="1548072764007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/OverLoadind" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$PassFunctionAsArgumentFilterMethodExampleDemo1.coverage" NAME="PassFunctionAsArgumentFilterMethodExampleDemo1 Coverage Results" MODIFIED="1547950859138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../function" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$MultipleInheritenceDemo.coverage" NAME="MultipleInheritenceDemo Coverage Results" MODIFIED="1548081504839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/Inheritence" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$Unittests_in_LocalVariableExampleDemo_py.coverage" NAME="Unittests in LocalVariableExampleDemo.py Coverage Results" MODIFIED="1548039129114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/LocalVariable" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$ToCheckMemberOfModule.coverage" NAME="ToCheckMemberOfModule Coverage Results" MODIFIED="1547964595769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Module" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$GarbageCollectorDemo__1_.coverage" NAME="GarbageCollectorDemo (1) Coverage Results" MODIFIED="1548071629623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/Destructor" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$ExceptionExampleDemo1.coverage" NAME="ExceptionExampleDemo1 Coverage Results" MODIFIED="1547936516330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$GarbageCollectorDemo.coverage" NAME="GarbageCollectorDemo Coverage Results" MODIFIED="1548068604063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$ClassDemo1.coverage" NAME="ClassDemo1 Coverage Results" MODIFIED="1548031467534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/Class" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$Test2.coverage" NAME="Test2 Coverage Results" MODIFIED="1547964145955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Module" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$Unittests_in_AccessMemberOfOneClassToAnotherClass_py.coverage" NAME="Unittests in AccessMemberOfOneClassToAnotherClass.py Coverage Results" MODIFIED="1548065511904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/InnerClass" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$PassFunctionAsArgumentFilterMethodExampleDemo2.coverage" NAME="PassFunctionAsArgumentFilterMethodExampleDemo2 Coverage Results" MODIFIED="1547951090988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../function" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$Unittests_in_StaticVariableModificationExampleDemo_py.coverage" NAME="Unittests in StaticVariableModificationExampleDemo.py Coverage Results" MODIFIED="1548038775527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/StaticVariable" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$Unittests_for_NestedMethodDemo_Test_m1.coverage" NAME="Unittests for NestedMethodDemo.Test.m1 Coverage Results" MODIFIED="1548068043769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/InnerAndNestedClass" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$Unittests_for_ConstructorOverloadingDemo_Test___init__.coverage" NAME="Unittests for ConstructorOverloadingDemo.Test.__init__ Coverage Results" MODIFIED="1548076523443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/OverLoadind" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$InstanceVariableExampleDemo1.coverage" NAME="InstanceVariableExampleDemo1 Coverage Results" MODIFIED="1548034419456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/InstanceVariable" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$NestedFunctionDemo.coverage" NAME="NestedFunctionDemo Coverage Results" MODIFIED="1547959619040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../function" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$RecursiveFunctionDemo.coverage" NAME="RecursiveFunctionDemo Coverage Results" MODIFIED="1547948301447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../function" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$WorkingWithMathModule.coverage" NAME="WorkingWithMathModule Coverage Results" MODIFIED="1547999606089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Module" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$Unittests_in_ConstructorExampleDemo1_py.coverage" NAME="Unittests in ConstructorExampleDemo1.py Coverage Results" MODIFIED="1548033331350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/Constructor" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$Unittests_for_DestructorDemo3_Test___init__.coverage" NAME="Unittests for DestructorDemo3.Test.__init__ Coverage Results" MODIFIED="1548070892841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/Destructor" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$DecoratorFunctionDemo2.coverage" NAME="DecoratorFunctionDemo2 Coverage Results" MODIFIED="1547961892100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../function" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$LoggingExampleDemo.coverage" NAME="LoggingExampleDemo Coverage Results" MODIFIED="1547938713361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../logging" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$f5.coverage" NAME="f5 Coverage Results" MODIFIED="1547945034027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../function" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$Unittests_for_GlobalVariableDemo1_Test_m1.coverage" NAME="Unittests for GlobalVariableDemo1.Test.m1 Coverage Results" MODIFIED="1548039981130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/GlobalVariable" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$InnerClassDemo2.coverage" NAME="InnerClassDemo2 Coverage Results" MODIFIED="1548066604284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/InnerClass" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$InstanceVariableExampleDemo2.coverage" NAME="InstanceVariableExampleDemo2 Coverage Results" MODIFIED="1548034863237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/InstanceVariable" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$Unittests_in_LocalVarableExampleDemo1_py.coverage" NAME="Unittests in LocalVarableExampleDemo1.py Coverage Results" MODIFIED="1548039359022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/LocalVariable" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$OopsImplementationProgram1Demo.coverage" NAME="OopsImplementationProgram1Demo Coverage Results" MODIFIED="1548041385837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$RandomModuleDemo.coverage" NAME="RandomModuleDemo Coverage Results" MODIFIED="1548001739899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Module" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$DecoratorFunctionDemo.coverage" NAME="DecoratorFunctionDemo Coverage Results" MODIFIED="1547961374032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../function" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$PassFunctionAsArgumentMapMethodExampleDemo1.coverage" NAME="PassFunctionAsArgumentMapMethodExampleDemo1 Coverage Results" MODIFIED="1547951717293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../function" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$Unittests_for_PassingArgumentInMethodDemo1_Test.coverage" NAME="Unittests for PassingArgumentInMethodDemo1.Test Coverage Results" MODIFIED="1548076084460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/OverLoadind" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$SingleInheritenceDemo.coverage" NAME="SingleInheritenceDemo Coverage Results" MODIFIED="1548081198174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/Inheritence" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$SpecialVariable__Name__PurposeDemo.coverage" NAME="SpecialVariable__Name__PurposeDemo Coverage Results" MODIFIED="1547999316893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Module" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$Unittests_for_StaticVariableModificationExampleDemo_Test_m1.coverage" NAME="Unittests for StaticVariableModificationExampleDemo.Test.m1 Coverage Results" MODIFIED="1548038819181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/StaticVariable" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$ClassExampleDemo3.coverage" NAME="ClassExampleDemo3 Coverage Results" MODIFIED="1548032585645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/Class" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$Unittests_for_StaticVariableAccessingDemo_Test_m2.coverage" NAME="Unittests for StaticVariableAccessingDemo.Test.m2 Coverage Results" MODIFIED="1548037499605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/StaticVariable" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$ConstructorExampleDemo2.coverage" NAME="ConstructorExampleDemo2 Coverage Results" MODIFIED="1548033913983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/Constructor" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$Unittests_for_ClassMethodDemo2_Test_getNoOfObject.coverage" NAME="Unittests for ClassMethodDemo2.Test.getNoOfObject Coverage Results" MODIFIED="1548063082745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/ClassMethod" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$StaticMethodDemo2.coverage" NAME="StaticMethodDemo2 Coverage Results" MODIFIED="1548063971613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/StaticMethod" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$Unittests_for_StaticVariableModificationExampleDemo_Test.coverage" NAME="Unittests for StaticVariableModificationExampleDemo.Test Coverage Results" MODIFIED="1548038850922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/StaticVariable" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$SetterGetterMethodDemo.coverage" NAME="SetterGetterMethodDemo Coverage Results" MODIFIED="1548051922851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/InstanceMethod" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$InnerClassDemo3.coverage" NAME="InnerClassDemo3 Coverage Results" MODIFIED="1548066820663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/InnerClass" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$OperatorOverloadingDemo5.coverage" NAME="OperatorOverloadingDemo5 Coverage Results" MODIFIED="1548074407064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/OverLoadind" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$InstanceVariableExampleDemo3.coverage" NAME="InstanceVariableExampleDemo3 Coverage Results" MODIFIED="1548035336798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/InstanceVariable" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$MethodOveridingDemo2.coverage" NAME="MethodOveridingDemo2 Coverage Results" MODIFIED="1548082094424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/MethodOverRiding" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$Unittests_in_StaticVarableDeclarationDemo_py.coverage" NAME="Unittests in StaticVarableDeclarationDemo.py Coverage Results" MODIFIED="1548037043422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/StaticVariable" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$AnonymousFunctionDemo1.coverage" NAME="AnonymousFunctionDemo1 Coverage Results" MODIFIED="1547949497170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../function" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$Unittests_for_InstanceVariableExampleDemo4_Test___init__.coverage" NAME="Unittests for InstanceVariableExampleDemo4.Test.__init__ Coverage Results" MODIFIED="1548035754816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/InstanceVariable" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$OperatorOverloadindDemo1.coverage" NAME="OperatorOverloadindDemo1 Coverage Results" MODIFIED="1548072376560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/OverLoadind" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$Unittests_in_ConstructorOverloadingDemo_py.coverage" NAME="Unittests in ConstructorOverloadingDemo.py Coverage Results" MODIFIED="1548076533666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/OverLoadind" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$Unittests_in_MethodOverloadindDemo2_py.coverage" NAME="Unittests in MethodOverloadindDemo2.py Coverage Results" MODIFIED="1548075227855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/OverLoadind" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$Unittests_for_StaticVariableModificationDemo_Test_m2.coverage" NAME="Unittests for StaticVariableModificationDemo.Test.m2 Coverage Results" MODIFIED="1548038229795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/StaticVariable" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$Unittests_for_GlobalVariableDemo1_Test.coverage" NAME="Unittests for GlobalVariableDemo1.Test Coverage Results" MODIFIED="1548039691376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/GlobalVariable" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$PassFunctionAsArgumentMapMethodExampleDemo2.coverage" NAME="PassFunctionAsArgumentMapMethodExampleDemo2 Coverage Results" MODIFIED="1547952156377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../function" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$KeywordArgumentFunctionDemo.coverage" NAME="KeywordArgumentFunctionDemo Coverage Results" MODIFIED="1547945958946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../function" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$ClassExampleDemo2.coverage" NAME="ClassExampleDemo2 Coverage Results" MODIFIED="1548032081185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/Class" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$OperatorOverloadingDemo4.coverage" NAME="OperatorOverloadingDemo4 Coverage Results" MODIFIED="1548073682598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Oops/OverLoadind" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="GarbageCollectorDemo.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Oops/GarbageCollectorDemo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MethodOveridingDemo1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Oops/MethodOverRiding/MethodOveridingDemo1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="20" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MethodOveridingDemo2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Oops/MethodOverRiding/MethodOveridingDemo2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CompositionAndAggregationDemo.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Oops/CompositionAndAggregationDemo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="72" lean-forward="false" selection-start-line="11" selection-start-column="72" selection-end-line="11" selection-end-column="72" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SingleInheritenceDemo.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Oops/Inheritence/SingleInheritenceDemo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MultipleInheritenceDemo.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Oops/Inheritence/MultipleInheritenceDemo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HybridInheritenceDemo.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Oops/Inheritence/HybridInheritenceDemo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../Oops/Class/ClassDemo1.py" />
+        <option value="$PROJECT_DIR$/../Oops/Class/ClassExampleDemo2.py" />
+        <option value="$PROJECT_DIR$/../Oops/Class/ClassExampleDemo3.py" />
+        <option value="$PROJECT_DIR$/../Oops/Constructor/ConstructorExampleDemo1.py" />
+        <option value="$PROJECT_DIR$/../Oops/Constructor/ConstructorExampleDemo2.py" />
+        <option value="$PROJECT_DIR$/../Oops/InstanceVariable/InstanceVariableExampleDemo1.py" />
+        <option value="$PROJECT_DIR$/../Oops/InstanceVariable/InstanceVariableExampleDemo2.py" />
+        <option value="$PROJECT_DIR$/../Oops/InstanceVariable/InstanceVariableExampleDemo3.py" />
+        <option value="$PROJECT_DIR$/../Oops/InstanceVariable/InstanceVariableExampleDemo4.py" />
+        <option value="$PROJECT_DIR$/../Oops/StaticVariable/StaticVarableDeclarationDemo.py" />
+        <option value="$PROJECT_DIR$/../Oops/StaticVariable/StaticVariableAccessingDemo.py" />
+        <option value="$PROJECT_DIR$/../Oops/StaticVariable/StaticVariableModificationDemo.py" />
+        <option value="$PROJECT_DIR$/../Oops/StaticVariable/StaticVariableModificationExampleDemo.py" />
+        <option value="$PROJECT_DIR$/../Oops/LocalVariable/LocalVariableExampleDemo.py" />
+        <option value="$PROJECT_DIR$/../Oops/LocalVariable/LocalVarableExampleDemo1.py" />
+        <option value="$PROJECT_DIR$/../Oops/GlobalVariable/GlobalVariableExampleDemo2.py" />
+        <option value="$PROJECT_DIR$/../Oops/GlobalVariable/GlobalVariableDemo1.py" />
+        <option value="$PROJECT_DIR$/../Oops/OopsImplementationProgram1Demo.py" />
+        <option value="$PROJECT_DIR$/../Oops/InstanceMethod/InstanceMethodDemo.py" />
+        <option value="$PROJECT_DIR$/../Oops/InstanceMethod/SetterGetterMethodDemo.py" />
+        <option value="$PROJECT_DIR$/../Oops/ClassMethod/ClassMethodDemo.py" />
+        <option value="$PROJECT_DIR$/../Oops/ClassMethod/ClassMethodDemo2.py" />
+        <option value="$PROJECT_DIR$/../Oops/StaticMethod/StaticMethodDemo1.py" />
+        <option value="$PROJECT_DIR$/../Oops/StaticMethod/StaticMethodDemo2.py" />
+        <option value="$PROJECT_DIR$/../Oops/InnerClass/AccessMemberOfOneClassToAnotherClass.py" />
+        <option value="$PROJECT_DIR$/../Oops/InnerClass/InnerClassDemo1.py" />
+        <option value="$PROJECT_DIR$/../Oops/InnerClass/InnerClassDemo2.py" />
+        <option value="$PROJECT_DIR$/../Oops/InnerClass/InnerClassDemo3.py" />
+        <option value="$PROJECT_DIR$/../Oops/InnerClass/InnerClassDemo4.py" />
+        <option value="$PROJECT_DIR$/../Oops/InnerAndNestedClass/NestedMethodDemo.py" />
+        <option value="$PROJECT_DIR$/../Oops/GarbageCollectorDemo.py" />
+        <option value="$PROJECT_DIR$/../Oops/Destructor/DestructorDemo3.py" />
+        <option value="$PROJECT_DIR$/../Oops/Destructor/DestructorDemo2.py" />
+        <option value="$PROJECT_DIR$/../Oops/Destructor/DestructorDemo1.py" />
+        <option value="$PROJECT_DIR$/../Oops/Destructor/GarbageCollectorDemo.py" />
+        <option value="$PROJECT_DIR$/../Oops/OverLoadind/OperatorOverloadindDemo1.py" />
+        <option value="$PROJECT_DIR$/../Oops/OverLoadind/OperatorOverloadingDemo2.py" />
+        <option value="$PROJECT_DIR$/../Oops/OverLoadind/OperatorOverloadingDemo3.py" />
+        <option value="$PROJECT_DIR$/../Oops/OverLoadind/OperatorOverloadingDemo4.py" />
+        <option value="$PROJECT_DIR$/../Oops/OverLoadind/OperatorOverloadingDemo5.py" />
+        <option value="$PROJECT_DIR$/../Oops/OverLoadind/MethodOverloadingDemo1.py" />
+        <option value="$PROJECT_DIR$/../Oops/OverLoadind/MethodOverloadindDemo2.py" />
+        <option value="$PROJECT_DIR$/../Oops/OverLoadind/PassingArgumentInMethodDemo1.py" />
+        <option value="$PROJECT_DIR$/../Oops/OverLoadind/PassingArgumentInMethodDemo2.py" />
+        <option value="$PROJECT_DIR$/../Oops/OverLoadind/ConstructorOverloadingDemo.py" />
+        <option value="$PROJECT_DIR$/../Oops/MethodOverRiding/MethodOveridingDemo1.py" />
+        <option value="$PROJECT_DIR$/../Oops/CompositionAndAggregationDemo.py" />
+        <option value="$PROJECT_DIR$/../Oops/Inheritence/SingleInheritenceDemo.py" />
+        <option value="$PROJECT_DIR$/../Oops/Inheritence/MultipleInheritenceDemo.py" />
+        <option value="$PROJECT_DIR$/../Oops/Inheritence/HybridInheritenceDemo.py" />
+        <option value="$PROJECT_DIR$/../Oops/MethodOverRiding/MethodOveridingDemo2.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ExceptionHandling" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Oops" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ExceptionHandling" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Oops" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MethodOverRiding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ExceptionHandling" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Oops" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Inheritence" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ExceptionHandling" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Oops" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Destructor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.MethodOveridingDemo2">
+    <configuration default="false" name="MethodOveridingDemo2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Oops/MethodOverRiding" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Oops" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Oops/MethodOverRiding/MethodOveridingDemo2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="CompositionAndAggregationDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Oops" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Oops" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Oops/CompositionAndAggregationDemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SingleInheritenceDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Oops/Inheritence" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Oops" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Oops/Inheritence/SingleInheritenceDemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="MultipleInheritenceDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Oops/Inheritence" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Oops" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Oops/Inheritence/MultipleInheritenceDemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="HybridInheritenceDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Oops/Inheritence" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Oops" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Oops/Inheritence/HybridInheritenceDemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ExceptionHandling" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ExceptionHandling" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ExceptionHandling" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ExceptionHandling" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="ExceptionHandling" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ExceptionHandling" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ExceptionHandling" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.MethodOveridingDemo2" />
+      <item index="1" class="java.lang.String" itemvalue="Python.CompositionAndAggregationDemo" />
+      <item index="2" class="java.lang.String" itemvalue="Python.SingleInheritenceDemo" />
+      <item index="3" class="java.lang.String" itemvalue="Python.MultipleInheritenceDemo" />
+      <item index="4" class="java.lang.String" itemvalue="Python.HybridInheritenceDemo" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.MethodOveridingDemo2" />
+        <item index="1" class="java.lang.String" itemvalue="Python.HybridInheritenceDemo" />
+        <item index="2" class="java.lang.String" itemvalue="Python.MultipleInheritenceDemo" />
+        <item index="3" class="java.lang.String" itemvalue="Python.SingleInheritenceDemo" />
+        <item index="4" class="java.lang.String" itemvalue="Python.CompositionAndAggregationDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3bd4131a-e94f-4c59-8850-46a83c6f31cd" name="Default" comment="" />
+      <created>1547933706373</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547933706373</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_ConstructorOverloadingDemo_Test___init__ - 2019.01.21 at 18h 45m 23s.xml">
+      <configuration name="Unittests for ConstructorOverloadingDemo.Test.__init__" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_DestructorDemo3_Test___init__ - 2019.01.21 at 17h 11m 43s.xml">
+      <configuration name="Unittests for DestructorDemo3.Test.__init__" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_PassingArgumentInMethodDemo1_Test - 2019.01.21 at 18h 38m 05s.xml">
+      <configuration name="Unittests for PassingArgumentInMethodDemo1.Test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_ConstructorOverloadingDemo_py - 2019.01.21 at 18h 45m 34s.xml">
+      <configuration name="Unittests in ConstructorOverloadingDemo.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_DestructorDemo2_py - 2019.01.21 at 17h 09m 24s.xml">
+      <configuration name="Unittests in DestructorDemo2.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_MethodOverloadindDemo2_py - 2019.01.21 at 18h 23m 48s.xml">
+      <configuration name="Unittests in MethodOverloadindDemo2.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_MethodOverloadingDemo1_py - 2019.01.21 at 18h 19m 02s.xml">
+      <configuration name="Unittests in MethodOverloadingDemo1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_MethodOverloadingDemo1_py - 2019.01.21 at 18h 19m 11s.xml">
+      <configuration name="Unittests in MethodOverloadingDemo1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_MethodOverloadingDemo1_py - 2019.01.21 at 18h 19m 40s.xml">
+      <configuration name="Unittests in MethodOverloadingDemo1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_PassingArgumentInMethodDemo2_py - 2019.01.21 at 18h 41m 12s.xml">
+      <configuration name="Unittests in PassingArgumentInMethodDemo2.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39905363" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../Oops/Class/ClassExampleDemo3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Oops/Constructor/ConstructorExampleDemo1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Oops/Constructor/ConstructorExampleDemo2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Oops/InstanceVariable/InstanceVariableExampleDemo1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Oops/InstanceVariable/InstanceVariableExampleDemo3.py" />
+    <entry file="file://$PROJECT_DIR$/../Oops/InstanceVariable/InstanceVariableDeleteDemo3.py" />
+    <entry file="file://$PROJECT_DIR$/../Oops/InstanceVariable/InstanceVariableExampleDemo4.py" />
+    <entry file="file://$PROJECT_DIR$/../Oops/InstanceVariable/InstanceVariableExampleDemo2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="101" lean-forward="false" selection-start-line="6" selection-start-column="101" selection-end-line="6" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Oops/StaticVariable/StaticVarableDeclarationDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="42" lean-forward="false" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Oops/StaticVariable/StaticVariableAccessingDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Oops/StaticVariable/StaticVariableModificationDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="88" lean-forward="false" selection-start-line="24" selection-start-column="88" selection-end-line="24" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Oops/StaticVariable/StaticVariableModificationExampleDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Oops/LocalVariable/LocalVariableExampleDemo.py" />
+    <entry file="file://$PROJECT_DIR$/../Oops/LocalVariable/LocalVarableExampleDemo1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Oops/GlobalVariable/GlobalVariableExampleDemo2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Oops/GlobalVariable/GlobalVariableDemo1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Oops/OopsImplementationProgram1Demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="28" lean-forward="false" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Oops/InstanceMethod/InstanceMethodDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Oops/InstanceMethod/SetterGetterMethodDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Oops/ClassMethod/ClassMethodDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python34/Lib/unittest/loader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2363">
+          <caret line="148" column="0" lean-forward="false" selection-start-line="148" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Oops/ClassMethod/ClassMethodDemo2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Oops/StaticMethod/StaticMethodDemo1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="41" lean-forward="false" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Oops/InnerClass/AccessMemberOfOneClassToAnotherClass.py" />
+    <entry file="file://$PROJECT_DIR$/../Oops/InnerClass/InnerClassDemo1.py" />
+    <entry file="file://$PROJECT_DIR$/../Oops/InnerClass/InnerClassDemo2.py" />
+    <entry file="file://$PROJECT_DIR$/../Oops/InnerClass/InnerClassDemo4.py" />
+    <entry file="file://$PROJECT_DIR$/../Oops/InnerClass/InnerClassDemo3.py" />
+    <entry file="file://$PROJECT_DIR$/../Oops/StaticMethod/StaticMethodDemo2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Oops/InnerAndNestedClass/NestedMethodDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="2" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Oops/Destructor/DestructorDemo3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Oops/Destructor/DestructorDemo2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="24" column="3" lean-forward="false" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Oops/Destructor/DestructorDemo1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="32" column="47" lean-forward="false" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Oops/Destructor/GarbageCollectorDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Oops/OverLoadind/OperatorOverloadindDemo1.py" />
+    <entry file="file://$PROJECT_DIR$/../Oops/OverLoadind/OperatorOverloadingDemo2.py" />
+    <entry file="file://$PROJECT_DIR$/../Oops/OverLoadind/OperatorOverloadingDemo3.py" />
+    <entry file="file://$PROJECT_DIR$/../Oops/OverLoadind/OperatorOverloadingDemo4.py" />
+    <entry file="file://$PROJECT_DIR$/../Oops/OverLoadind/OperatorOverloadingDemo5.py" />
+    <entry file="file://$PROJECT_DIR$/../Oops/OverLoadind/MethodOverloadingDemo1.py" />
+    <entry file="file://$PROJECT_DIR$/../Oops/OverLoadind/MethodOverloadindDemo2.py" />
+    <entry file="file://$PROJECT_DIR$/../Oops/OverLoadind/PassingArgumentInMethodDemo2.py" />
+    <entry file="file://$PROJECT_DIR$/../Oops/OverLoadind/ConstructorOverloadingDemo.py" />
+    <entry file="file://$PROJECT_DIR$/../Oops/OverLoadind/PassingArgumentInMethodDemo1.py" />
+    <entry file="file://$PROJECT_DIR$/../Oops/GarbageCollectorDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Oops/MethodOverRiding/MethodOveridingDemo1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="20" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Oops/CompositionAndAggregationDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="72" lean-forward="false" selection-start-line="11" selection-start-column="72" selection-end-line="11" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Oops/Inheritence/SingleInheritenceDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Oops/Inheritence/MultipleInheritenceDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Oops/Inheritence/HybridInheritenceDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Oops/MethodOverRiding/MethodOveridingDemo2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,17 @@
+
+<!doctype htmlsss>
+<html>
+<head><title> satyam </title></head>
+<body >
+<form action="record" method="post">
+<h1><center>satyam software solution </center></h1>
+<hr><br><br>
+<center>
+<button> <a href="login.html" >login </a></button>
+<button> <a href="add.html" >login </a></button>
+ 
+
+</center>
+<form>
+</body>
+</html>

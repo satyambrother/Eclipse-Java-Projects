@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../DatabaseConnection/.idea/DatabaseConnection.iml" filepath="$PROJECT_DIR$/../DatabaseConnection/.idea/DatabaseConnection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RegularExpression/.idea/RegularExpression.iml" filepath="$PROJECT_DIR$/../RegularExpression/.idea/RegularExpression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/filehandling.iml" filepath="$PROJECT_DIR$/.idea/filehandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pickling/.idea/pickling.iml" filepath="$PROJECT_DIR$/../pickling/.idea/pickling.iml" />
+    </modules>
+  </component>
+</project>

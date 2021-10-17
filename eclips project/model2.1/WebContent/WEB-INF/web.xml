@@ -1,0 +1,39 @@
+<web-app>
+<context-param>
+     <param-name>SourceName</param-name>
+     <param-value>satyam.jpg</param-value>
+</context-param>
+<servlet>
+    <servlet-name>Firstservlet</servlet-name>
+    <servlet-class>mypack.FirstServlet</servlet-class>
+    <init-param>
+             <param-name>SourceName</param-name>
+             <param-value>satyam.jpg</param-value>
+    </init-param>
+</servlet>
+
+<serlet-mapping>
+     <servlet-name>Firstservlet</servlet-name>
+     <url-pattern>/first</url-pattern>
+</serlet-mapping>   
+
+<filter>
+     <filter-name>F1</filter-name>
+     <filter-class>mypack.Filter1</filter-class>
+</filter>
+
+<filter-mapping>
+       <filter-name>F1</filter-name>
+       <url-pattern>/first</url-pattern>
+</filter-mapping>
+
+<filter>
+     <filter-name>F2</filter-name>
+     <filter-class>mypack.Filter2</filter-class>
+</filter>
+
+<filter-mapping>
+       <filter-name>F2</filter-name>
+       <url-pattern>/first</url-pattern>
+</filter-mapping>
+</web-app>

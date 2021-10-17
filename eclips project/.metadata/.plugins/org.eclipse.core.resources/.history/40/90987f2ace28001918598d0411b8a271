@@ -1,0 +1,10 @@
+<html>
+<body>
+<form action="findAllRecord" method="post">
+
+<br/><br/>
+<input type="submit" value="findAllRecord"/>
+
+</form>
+</body>
+</html>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ExceptionHandling.iml" filepath="$PROJECT_DIR$/.idea/ExceptionHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Module/.idea/Module.iml" filepath="$PROJECT_DIR$/../Module/.idea/Module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Oops/.idea/Oops.iml" filepath="$PROJECT_DIR$/../Oops/.idea/Oops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../function/.idea/function.iml" filepath="$PROJECT_DIR$/../function/.idea/function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../logging/.idea/logging.iml" filepath="$PROJECT_DIR$/../logging/.idea/logging.iml" />
+    </modules>
+  </component>
+</project>

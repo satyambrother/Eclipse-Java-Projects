@@ -1,0 +1,6 @@
+f1=open('satyam.jpg','rb')
+f2=open('newpicsatyam','wb')
+b=f1.read()
+f2.write(b)
+print(b)
+print('new image is available:','newpicsatyam.jpg')

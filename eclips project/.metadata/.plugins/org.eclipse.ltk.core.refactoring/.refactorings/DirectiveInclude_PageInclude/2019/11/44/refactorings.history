@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;DirectiveInclude_PageInclude/WebContent/Head.html&apos; to &apos;Head.jsp&apos;" description="Rename resource &apos;Head.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/Head.html" name="Head.jsp" stamp="1572662428664" updateReferences="true"/>
+</session>

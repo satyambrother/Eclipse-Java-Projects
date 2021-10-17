@@ -1,0 +1,6 @@
+f=open('example1.txt','w')
+f.write('satyam \n')
+f.write('software \n')
+f.write('solution')
+f.close()
+print('write operation completed')
